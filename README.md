@@ -4,8 +4,10 @@
 This is a Retrieval Augmented Generation (RAG) command-line application designed to process and chat with a local PDF document. It leverages LangChain and OpenAI to answer user questions based on the content of the "2025 State of AI-Assisted Software Development" report.
 
 ## Goal
-The goal of this application is to demonstrate a local RAG implementation that reads a specific annual report about AI ("2025_state_of_ai_assisted_software_development.pdf") and allows users to query it interactively. The report can be downloaded from https://dora.dev/research/2025/dora-report/
+- The goal of this application is to demonstrate a local RAG implementation that reads a specific annual report about Dora report ("2025_state_of_ai_assisted_software_development.pdf") and allows users to query it interactively. The report can be downloaded from https://dora.dev/research/2025/dora-report/
 and place the report under files folder
+
+- The 2025 DORA Report, now retitled the State of AI-Assisted Software Development, reveals that artificial intelligence acts as an amplifier rather than a universal solution—magnifying efficiency in organizations with strong engineering foundations while increasing instability and "toil" in those with existing bottlenecks. While the report finds near-universal AI adoption (approximately 90%), it identifies a critical "trust paradox" where many developers rely on code generation tools they do not fully trust, shifting the industry's focus from simple speed metrics toward platform engineering, robust internal data quality, and human-centric developer experience as the primary drivers of success. In a significant departure from previous years, the 2025 study replaces the traditional "Elite through Low" performance clusters with seven distinct team archetypes (such as "Harmonious High-Achievers" vs. "Legacy Bottlenecks") to provide a more nuanced framework for diagnosing how AI interacts with team culture and organizational health.
 
 ## Key Components
 
