@@ -39,6 +39,7 @@ This project is managed using `uv`. The key dependencies are:
    Create a `.env` file in the root directory (if not already present) and add your OpenAI API key:
    ```env
    OPENAI_API_KEY=sk-your-api-key-here
+   OPENAI_MODEL_NAME=your-favorite-openai-model
    ```
 
 3. **Install Dependencies**:
